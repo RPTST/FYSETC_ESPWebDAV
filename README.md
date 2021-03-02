@@ -2,6 +2,15 @@
 
 See https://www.youtube.com/watch?v=nHNZPRl8gzA project on youtube.
 
+Get the devices from:
+
+https://www.aliexpress.com/item/4001095471107.html?spm=a2g0o.productlist.0.0.18b27ca6arnfSb&algo_pvid=0b72d6c9-4e95-44f4-9af2-edd79627d648&algo_expid=0b72d6c9-4e95-44f4-9af2-edd79627d648-0&btsid=0b0a555716146791285486973e5fe5&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
+or
+
+https://www.amazon.com/dp/B08JCNFWZS/?coliid=I1N1V2HJINU5CZ&colid=1VU5IES1KBLW9&psc=1&ref_=lv_ov_lig_dp_it
+
+
 This project is a WiFi WebDAV server using ESP8266 SoC. It maintains the filesystem on an SD card.
 
 Supports the basic WebDav operations - *PROPFIND*, *GET*, *PUT*, *DELETE*, *MKCOL*, *MOVE* etc.
